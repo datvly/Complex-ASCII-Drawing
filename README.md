@@ -1,3 +1,4 @@
+```bash
               #####
               |||||
               |||||
@@ -28,6 +29,7 @@
 /"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"\
 /"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"\
 /"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"\
+```
 
 # 🎨 ASCII Drawing of a Tower
 
